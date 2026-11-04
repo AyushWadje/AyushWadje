@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ayush-wadje-a897a9234">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ayush-wadje-a897a9234/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:ayushwadje@gmail.com">ayushwadje@gmail.com</a>
 </p>
 
@@ -94,5 +94,5 @@ result  authenticated NFSv4 storage shared across the VMs
 <br>
 
 <p align="center">
-  Hiring for an entry-level software role? Write to <a href="mailto:ayushwadje@gmail.com">ayushwadje@gmail.com</a> or message me on <a href="www.linkedin.com/in/ayush-wadje-a897a9234">LinkedIn</a>.
+  Hiring for an entry-level software role? Write to <a href="mailto:ayushwadje@gmail.com">ayushwadje@gmail.com</a> or message me on <a href="https://www.linkedin.com/in/ayush-wadje-a897a9234/">LinkedIn</a>.
 </p>
