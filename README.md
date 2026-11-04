@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushwadje">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="www.linkedin.com/in/ayush-wadje-a897a9234">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:ayushwadje@gmail.com">ayushwadje@gmail.com</a>
 </p>
 
