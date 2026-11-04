@@ -1,16 +1,42 @@
-## Hi there 👋
+<img src="banner.jpg" alt="banner" width="100%" />
 
-<!--
-**AyushWadje/AyushWadje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Darshil Amalkar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Final-year · Full-Stack & IoT Systems Engineer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I build web apps and embedded/IoT systems. I care about how data moves
+  from sensor to dashboard and whether an app still works offline.
+</p>
+
+<p align="center">
+  Based in Nagpur, India. Open to 2027 new-grad and internship roles.
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio.com">Portfolio</a> ·
+  <a href="link-to-resume.pdf">Résumé</a> ·
+  <a href="https://linkedin.com/in/darshil-amalkar">LinkedIn</a> ·
+  <a href="mailto:you@email.com">Email</a>
+</p>
+
+---
+
+### ◆ current work
+
+- [**Project 1**](https://github.com/Darshil-yup/repo) — one-line description
+- [**Project 2**](https://github.com/Darshil-yup/repo) — one-line description
+
+### ◆ open source
+
+- [repo](link) — what you fixed or contributed
+
+### ◆ research & highlights
+
+- Paper, hackathon wins, community roles
+
+### ◆ how i work
+
+Short paragraph on your workflow and tools.
